@@ -24,8 +24,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=NotaSurgele&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ElouanDaCosta&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=NotaSurgele&icon=7&color=11)](https://visitcount.itsvg.in)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotaSurgele&bg_color=000000&color=ffffff&line=00e6ac&point=ffffff&area=true&hide_border=true)
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotaSurgele&theme=dracula)](https://github.com/NotaSurgele/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

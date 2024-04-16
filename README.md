@@ -4,6 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently working on <a href="https://github.com/NotaSurgele/Orizon">Orizon game engine</a><br><br>🌱 I’m currently learning game dev<br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me alexis.picard@epitech.eu<br>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=Team22052001&color=blue)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-picard-/)

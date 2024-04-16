@@ -26,4 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ElouanDaCosta&icon=7&color=11)](https://visitcount.itsvg.in)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NotaSurgele&bg_color=000000&color=ffffff&line=00e6ac&point=ffffff&area=true&hide_border=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

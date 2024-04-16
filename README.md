@@ -26,6 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=NotaSurgele&icon=7&color=11)](https://visitcount.itsvg.in)
 
-[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotaSurgele&theme=dracula)](https://github.com/NotaSurgele/github-readme-activity-graph)
+[![Github Activity](https://github-readme-activity-graph.vercel.app/graph?username=NotaSurgele&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

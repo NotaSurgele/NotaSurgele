@@ -6,7 +6,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Team22052001&color=blue)
 
-# Techno i'm familiar with:
+# 🤖 Techno i'm familiar with:
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>

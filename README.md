@@ -42,7 +42,7 @@
         <img src="https://libgdx.com/assets/brand/stacked.png" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://unity.com/fr" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" alt="figma" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-line.svg" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="figma" width="40" height="40"/>
@@ -51,7 +51,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain.svg" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://godotengine.org" target="_blank" rel="noreferrer">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-plain.svg" alt="figma" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="figma" width="40" height="40"/>
     </a>
     <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
         <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-plain.svg" alt="figma" width="40" height="40"/>

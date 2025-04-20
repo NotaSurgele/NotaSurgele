@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developper from France !</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://github.com/FischingSensei/mobile_app">a fishing app</a><br> I also work on <a href="https://pharmusic.com"> PHAR </a> as an Backend and IA developpeur <br><br>🌱 I’m currently learning game dev and software dev<br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me alexis.picard@epitech.eu<br>
+🔭 I’m currently working on <a href="https://github.com/FischingSensei/mobile_app">a fishing app</a><br> I also work on <a href="https://pharmusic.com"> PHAR </a> as a backend and IA developpeur <br><br>🌱 I’m currently learning game dev and software dev<br><br>💬 Ask me about anything I'll try to help you !<br><br>📫 How to reach me alexis.picard@epitech.eu<br>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Team22052001&color=blue)
 
